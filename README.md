@@ -7,5 +7,5 @@
 
 Servidor alojado:
 
-- [GitHub Pages](https://github.com/amigos81/blog-preview-card.git)
-- [Netlify](https://serene-banoffee-a18294.netlify.app/)
+- [GitHub Pages](https://github.com/amigos81/social-links-profile.git)
+- [Netlify](https://courageous-brioche-6d347c.netlify.app/)
